@@ -1,0 +1,10 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/zafeiropoulospanos/c++ Projects/class2/bin",
+            "binaryPath": "/Users/zafeiropoulospanos/c++ Projects/class2/bin/math1",
+            "binaryArgs": []
+        }
+    ],
+    "C_Cpp.default.compilerPath": "/usr/local/bin/gcc-12"
+}
